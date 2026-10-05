@@ -1,0 +1,6 @@
+{
+  "name": "Nguyễn Thị Minh Nguyệt - Portfolio Kinh Tế Quốc Tế",
+  "description": "Portfolio cá nhân của Nguyễn Thị Minh Nguyệt, sinh viên năm 2 ngành Kinh tế quốc tế Trường Đại học Ngoại thương (FTU) với chủ đề Bầu trời đêm và Mặt trăng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
